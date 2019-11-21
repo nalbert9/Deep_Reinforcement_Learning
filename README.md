@@ -3,7 +3,8 @@ This repository contains projects for Deep Reinforcement Learning, Nanodegree vi
 
 ## Projects Overview
 
-__P0_TaxiReinforcement__: The Taxi Problem
+__P0_TaxiReinforcement__: The Taxi Problem lab
+
 Train a taxi to pick up and drop off passengers.
 
 __P1_Navigation__: Navigation
