@@ -1,9 +1,10 @@
 # Deep_Reinforcement_Learning
-This repository contains projects for Deep Reinforcement Learning, Nanodegree via [Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893).
+This repository contains projects for Deep Reinforcement Learning, Nanodegree via [Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). All of the projects use simulation environments from Unity [ML-Agents](https://github.com/Unity-Technologies/ml-agents). 
 
 ## Projects Overview
 
-__P0_TaxiReinforcement__: Learning
+__P0_TaxiReinforcement__: The Taxi Problem
+Train a taxi to pick up and drop off passengers.
 
 __P1_Navigation__: Navigation
 
