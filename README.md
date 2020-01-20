@@ -3,11 +3,6 @@ This repository contains projects for Deep Reinforcement Learning, Nanodegree vi
 
 ## Projects Overview
 
-### OpenAI Gym's Taxi-v2 Task
->[P0_Taxi](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P0_Taxi)
-
-In this project, we use ```OpenAI Gym's Taxi-v2``` environment to design an Reinforcement Learning algorithm to teach a taxi agent to navigate a small gridworld. 
-
 ### Navigation
 >[P1_Navigation](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P1_navigation)
 
