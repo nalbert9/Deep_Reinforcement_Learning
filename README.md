@@ -4,7 +4,7 @@ This repository contains projects for Deep Reinforcement Learning, Nanodegree vi
 ## Projects Overview
 
 ### Navigation
->[P1_Navigation](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P1_navigation)
+>[P1_Navigation](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P1_Navigation)
 
 Leverage neural networks to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas.
 
