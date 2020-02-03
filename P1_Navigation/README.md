@@ -47,7 +47,6 @@ We have **37 continuous states**, **4 discrete actions**. When  the training is 
 
 <p align="center"> 
     <img src="Assets/plot.png" align="middle" alt="drawing" width="300px">
-    <em><b>Plotted Rewards</b></em>
 </p>
 
-
+<p align="center"> <em><b>Plotted Rewards</b></em> </p>
