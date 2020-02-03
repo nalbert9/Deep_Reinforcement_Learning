@@ -46,7 +46,8 @@ Follow the instructions in `Navigation.ipynb` to get started with training the a
 We have **37 continuous states**, **4 discrete actions**. When  the training is done, we can inspect plot of rewards per episode.
 
 <p align="center"> 
-    <img src="Assets/plot.png" align="middle" alt="drawing" width="300px"> 
+    <img src="Assets/plot.png" align="middle" alt="drawing" width="300px">
+    <em><b>Plotted Rewards</b></em>
 </p>
 
 
