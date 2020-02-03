@@ -37,10 +37,10 @@ Our problem is well framed to be categorized as a **Reinforcement Learning (RL)*
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training the own agent! To solve this problem we use a  [Deep Q-Networks](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). 
+Follow the instructions in `Navigation.ipynb` to get started with training the agent. To solve this problem we use a  [Deep Q-Networks](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). 
 
 <p align="center"> 
-    <img src="Assets/dqn.png" align="middle" alt="drawing" width="300px"> 
+    <img src="Assets/dqn.png" align="middle" alt="drawing" width="500px"> 
 </p>
 
 We have **37 continuous states**, **4 discrete actions**. When  the training is done, we can inspect plot of rewards per episode.
