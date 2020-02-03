@@ -19,7 +19,7 @@ The state space has 37 dimensions and contains the agent's velocity, along with 
 
 The task is episodic, and in order to solve the environment, our agent must get an average score of +13 over 100 consecutive episodes.
 
-Our problem is well framed to be categorized as a **Reinforcement Learning (RL)** problem.
+Our problem is well framed to be categorized as a [**Reinforcement Learning**](https://s3-us-west-1.amazonaws.com/udacity-drlnd/bookdraft2018.pdf) problem.
 
 ### Getting Started
 
@@ -37,7 +37,7 @@ Our problem is well framed to be categorized as a **Reinforcement Learning (RL)*
 
 ### Instructions
 
-Follow the instructions in `Navigation.ipynb` to get started with training the agent. To solve this problem we use a  [Deep Q-Networks](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). 
+Follow the instructions in `Navigation.ipynb` to get started with training the agent. To solve this problem we use a [**Deep Q-Networks**](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf). 
 
 <p align="center"> 
     <img src="Assets/dqn.png" align="middle" alt="drawing" width="500px"> 
