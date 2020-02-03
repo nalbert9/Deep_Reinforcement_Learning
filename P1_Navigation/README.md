@@ -50,3 +50,9 @@ We have **37 continuous states**, **4 discrete actions**. When  the training is 
 </p>
 
 <p align="center"> <em><b>Plotted Rewards</b></em> </p>
+
+### Future work
+
+>[Implement a Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
+
+>[Implement a Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1509.06461)
