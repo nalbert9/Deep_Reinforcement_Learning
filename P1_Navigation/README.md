@@ -53,11 +53,6 @@ We have **37 continuous states**, **4 discrete actions**. When  the training is 
 
 ### Future works
 
->[Implement a Deep Reinforcement Learning with Double Q-learning](https://arxiv.org/abs/1509.06461)
-
->[Implement a Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1509.06461)
-
-
 >[Learning from Pixels](https://github.com/nalbert9/Deep_Reinforcement_Learning/blob/master/P1_Navigation/Navigation_Pixels.ipynb)
 
-In the project, our agent learned from information such as its velocity, along with ray-based perception of objects around its forward direction.  A more challenging task would be to learn directly from pixels.
+In the project, our agent will learn from information such as its velocity, along with ray-based perception of objects around its forward direction.  A more challenging task would be to learn directly from pixels.
