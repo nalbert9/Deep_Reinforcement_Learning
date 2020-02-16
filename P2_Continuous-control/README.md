@@ -63,7 +63,7 @@ The environment is considered solved, when the average (over 100 episodes) of th
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training the agent!  
 
-### Challenge: Crawler Environment
+### Challenge: [Crawler Environment](https://github.com/nalbert9/Deep_Reinforcement_Learning/blob/master/P2_Continuous-control/Continuous_Control.ipynb)
 
 Solve the more difficult **Crawler** environment.
 
