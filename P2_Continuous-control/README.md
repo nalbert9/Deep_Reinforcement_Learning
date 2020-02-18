@@ -49,9 +49,6 @@ Follow the instructions in `Continuous_Control.ipynb` to get started with traini
 
 >[Crawler Environment](https://github.com/nalbert9/Deep_Reinforcement_Learning/blob/master/P2_Continuous-control/Continuous_Control.ipynb)
 
-<p align="center"> 
-    <img src="https://user-images.githubusercontent.com/10624937/43851646-d899bf20-9b00-11e8-858c-29b5c2c94ccc.png " align="middle" alt="Trained Agent" width="400px"> </p>
-
 In this continuous control environment, the goal is to teach a creature with four legs to walk forward without falling.  
 
 Read more about this environment in the ML-Agents GitHub [here](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#crawler).  
