@@ -41,7 +41,7 @@ For this projet we will solve the first version. The task is episodic, and in or
 ### Instructions
 
 Follow the instructions in `Continuous_Control.ipynb` to get started with training the agent!  
-
+Read more about the [DDPG implementation](https://arxiv.org/pdf/1509.02971.pdf).
 
 # Future Challenge
 
