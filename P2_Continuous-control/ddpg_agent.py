@@ -1,4 +1,5 @@
 import numpy as np
+
 import random
 import copy
 from collections import namedtuple, deque
@@ -9,16 +10,16 @@ import torch
 import torch.nn.functional as F
 import torch.optim as optim
 
-BUFFER_SIZE = int(1e6)  # replay buffer size
-BATCH_SIZE = 128        # minibatch size
-GAMMA = 0.99            # discount factor
-TAU = 1e-3              # for soft update of target parameters
-LR_ACTOR = 1e-3         # learning rate of the actor
-LR_CRITIC = 1e-4        # learning rate of the critic
+BUFFER_SIZE = int(1e6)  # Replay buffer size
+BATCH_SIZE = 128        # Minibatch size
+GAMMA = 0.99            # Discount factor
+TAU = 1e-3              # For soft update of target parameters
+LR_ACTOR = 1e-3         # Learning rate of the actor
+LR_CRITIC = 1e-4        # Learning rate of the critic
 WEIGHT_DECAY = 0        # L2 weight decay
-UPDATE_EVERY = 20       # how often to update the network
-EPSILON = 1.0           # to control noise
-EPSILON_DECAY = 1e-6    # to gradually decrease noise
+UPDATE_EVERY = 20       # How often to update the network
+EPSILON = 1.0           # To control noise
+EPSILON_DECAY = 1e-6    # To gradually decrease noise
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
