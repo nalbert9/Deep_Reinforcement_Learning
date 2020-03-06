@@ -44,13 +44,21 @@ git clone https://github.com/nalbert9/Deep_Reinforcement_Learning.git
 cd P3_Collab-compet/python
 pip install .
 ```
-3. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
+
+3. Create an [IPython kernel](http://ipython.readthedocs.io/en/stable/install/kernel_install.html) for the `drlnd` environment.  
+```bash
+python -m ipykernel install --user --name drlnd --display-name "drlnd"
+```
+
+4. Before running code in a notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu.
+
+5. Download the environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Linux.zip)
     - Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis.app.zip)
     - Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)
     - Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)
 
-4. Place the file in the `P3_collab-compet/` folder, and unzip (or decompress) the file. 
+6. Place the file in the `P3_collab-compet/` folder, and unzip (or decompress) the file. 
 
 ### Project files
 
