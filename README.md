@@ -4,17 +4,10 @@ This repository contains projects for Deep Reinforcement Learning, Nanodegree vi
 ## Projects Overview
 
 ### Navigation
->[P1_Navigation](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P1_Navigation)
-
-Leverage neural networks to train an agent to navigate a virtual world and collect as many yellow bananas as possible while avoiding blue bananas.
+>[P1_Navigation](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P1_Navigation): In the first project, we will train an agent to collect yellow bananas while avoiding blue bananas.
 
 ### Control Continuous Control
->[P2_Continuous](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P2_Continuous-control)
-
-Train a robotic arm to reach target locations. For an extra challenge, train a four-legged virtual creature to walk.
+>[P2_Continuous](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P2_Continuous-control): In the second project, we will train an robotic arm to reach target locations.
 
 ### Competition Collaboration and Competition
->[P3_Collaboration](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P3_Collab-compet)
-
-Apply reinforcement learning methods to applications that involve multiple, interacting agents. These techniques are used in a variety of applications, such as the
-coordination of autonomous vehicles.
+>[P3_Collaboration](https://github.com/nalbert9/Deep_Reinforcement_Learning/tree/master/P3_Collab-compet): In the third project, we will train a pair of agents to play tennis!
