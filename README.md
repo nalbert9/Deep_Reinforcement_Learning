@@ -1,5 +1,5 @@
 # Deep_Reinforcement_Learning
-This repository contains projects for Deep Reinforcement Learning, Nanodegree via [Udacity](https://www.udacity.com/course/deep-reinforcement-learning-nanodegree--nd893). All of the projects use simulation environments from Unity [ML-Agents](https://github.com/Unity-Technologies/ml-agents) and OpenAI [Gym](https://gym.openai.com/). 
+This repository contains projects for Deep Reinforcement Learning. All of the projects use simulation environments from Unity [ML-Agents](https://github.com/Unity-Technologies/ml-agents) and OpenAI [Gym](https://gym.openai.com/). 
 
 ## Projects Overview
 
